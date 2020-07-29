@@ -100,24 +100,24 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Ciência",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "O que é inteligência? Onde ela começa?",
+          "url": "https://youtu.be/ck4RGeoHFko"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "COVID-19",
+          "url": "https://www.youtube.com/watch?v=BtN-goy9VOY&t=5s"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "O que o seu DNA diz sobre você?",
+          "url": "https://youtu.be/WH4hqF7yCaQ"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Onde estão os alieníginas",
+          "url": "https://youtu.be/YJsPmC8e7A4"
         }
       ]
     },
